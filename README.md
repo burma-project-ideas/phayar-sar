@@ -32,7 +32,7 @@ C# .NET 8 Blazor Web Assembly နဲ့
 <br />
 Public Repository ဖွင့်ထားပေးပါတယ်
 <br />
-ဒီမှာ ကြညိ့လို့်ရပါတယ်
+ဒီမှာ ကြည့်လို့ရပါတယ်
 <br />
 https://github.com/sannlynnhtun-coding/BlazorWasm.PhayarSar
 
