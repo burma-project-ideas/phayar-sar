@@ -24,6 +24,8 @@ Inspect ထောက်ပြီး ကြည့်ရင်လည်း
 ခေါ်ထားတဲ့ JSON Data တွေရှိတဲ့ 
 <br />
 Url ကိုတွေ့ပါလိမ့်မယ်
+<br />
+ကိုယ်ကြိုက်တဲ့ Language နဲ့ရေးလို့ ရအောင်ပါ
 
 
 C# .NET 8 Blazor Web Assembly နဲ့
